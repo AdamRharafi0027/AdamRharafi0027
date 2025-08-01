@@ -48,7 +48,8 @@ const adam = {
 
 📬 Reach me: adamrharafi.dev@gmail.com  
 🌐 Portfolio: [adamrharafi.dev](https://porfolio-one-sable.vercel.app/ )                    
-💼 LinkedIn: [adamrharafi](https://www.linkedin.com/in/adamrharafi/)  
+💼 LinkedIn: [adamrharafi](https://www.linkedin.com/in/adamrharafi/)     
+📄 Resume: [Download Cv](https://drive.google.com/file/d/1wF5hTLvjELaEI1hFWOuIjMJYeBqe_MzQ/view?usp=drive_link)
 
 ### 🧠 Fun Fact
 
