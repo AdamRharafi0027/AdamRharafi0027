@@ -40,14 +40,14 @@ const adam = {
 
 | Name | Description | Live Link |
 |------|-------------|-----------|
-| 👕 E-Commerce Landing Page | Modern hoodie & t-shirt brand website with animations | View Live |
+| 👕 E-Commerce Landing Page | Modern hoodie & t-shirt brand website with animations | [View live](https://clothes-brand-landing-page.vercel.app/) |
 | 🧠 AI Recommender App | Flutter + Flask AI for personalized content | Coming Soon |
 | 📄 CV Builder SaaS | AI-powered CV builder (Next.js + OpenAI) | Coming Soon |
 
 ### 📫 Let’s Connect!
 
 📬 Reach me: adamrharafi.dev@gmail.com  
-🌐 Portfolio: [adamrharafi.dev](https://porfolio-one-sable.vercel.app/ )                
+🌐 Portfolio: [adamrharafi.dev](https://porfolio-one-sable.vercel.app/ )
 💼 LinkedIn: [adamrharafi](https://www.linkedin.com/in/adamrharafi/)  
 
 ### 🧠 Fun Fact
