@@ -40,7 +40,7 @@ const adam = {
 
 | Name | Description | Live Link |
 |------|-------------|-----------|
-| 👕 E-Commerce Web Site | Modern hoodie & t-shirt brand website with animations | Coming Soon |
+| 👕 E-Commerce Web Site | Full Ecomerce website with all functions | Coming Soon |
 | 🧠 AI Recommender App | Flutter + Flask AI for personalized content | Coming Soon |
 | 📄 CV Builder SaaS | AI-powered CV builder (Next.js + OpenAI) | Coming Soon |
 
