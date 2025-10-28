@@ -40,7 +40,7 @@ const adam = {
 
 | Name | Description | Live Link |
 |------|-------------|-----------|
-| 👕 E-Commerce Web Site | Full Ecomerce website with all functions | Coming Soon |
+| 👕 E-Commerce Web Site | Full Ecomerce website with all functions | [Code](https://github.com/AdamRharafi0027/react-ecommerce-store/tree/main) |
 | 🧠 AI Recommender App | Flutter + Flask AI for personalized content | Coming Soon |
 | 📄 CV Builder SaaS | AI-powered CV builder (Next.js + OpenAI) | Coming Soon |
 
