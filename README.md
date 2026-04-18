@@ -28,9 +28,9 @@ Complete e-commerce storefront with product listings, cart, and checkout flow.
 ## Stack
 
 ```
-Languages    →  HTML · CSS · JavaScript · TypeScript
+Languages    →  HTML · CSS · JavaScript · ES6
 Frameworks   →  React · Next.js · Tailwind CSS · Framer Motion
-Tools        →  Git · GitHub · Figma · Firebase · Vercel
+Tools        →  Git · GitHub · Figma · Firebase · Vercel · Supabase
 ```
 
 ---
