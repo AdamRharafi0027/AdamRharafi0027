@@ -48,4 +48,4 @@ Tools        →  Git · GitHub · Figma · Firebase · Vercel · Supabase
 📧 [adamrharafi.dev@gmail.com](mailto:adamrharafi.dev@gmail.com)  
 💼 [linkedin.com/in/adamrharafi](https://www.linkedin.com/in/adamrharafi/)  
 🌐 [adamrharafi.vercel.app](https://adamrharafi.vercel.app/)  
-📄 [Download CV](https://drive.google.com/file/d/1wF5hTLvjELaEI1hFWOuIjMJYeBqe_MzQ/view?usp=drive_link)
+📄 [Download CV](https://docs.google.com/document/d/1uUFpLCwsX5FfLCMnoLXyzTU3vi1Sk6JEjkIlaT088f8/edit?usp=sharing)
