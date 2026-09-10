@@ -84,7 +84,7 @@ I'm also interested in **SaaS and product development**, turning real problems i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" alt="Git GitHub VS Code Figma npm Vercel Linux">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" alt="Git GitHub VS Code Figma npm Vercel">
 
 </div>
 
