@@ -28,7 +28,7 @@ const adam = {
   name: "Adam Rharafi",
   location: "Morocco 🇲🇦",
   role: "Front-End Developer",
-  focus: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  focus: ["React", "Next.js", "Tailwind CSS"],
   interests: ["Web Development", "UI/UX", "SaaS", "Performance"],
   availableForFreelance: true
 };
@@ -68,7 +68,7 @@ I'm also interested in **SaaS and product development**, turning real problems i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript">
 
 </div>
 
@@ -96,7 +96,6 @@ I'm continuously improving my skills in:
 
 * ▲ Next.js App Router
 * ⚛️ Advanced React patterns
-* 📘 TypeScript
 * ⚡ Web performance
 * 🎨 UI/UX
 * ☁️ Full-stack development
@@ -127,7 +126,7 @@ My current interests include:
 
 I'm actively building and improving projects that demonstrate my skills in:
 
-**React · Next.js · TypeScript · Tailwind CSS · UI/UX**
+**React · Next.js · Tailwind CSS · UI/UX**
 
 Check out my repositories to see what I'm working on.
 
@@ -199,6 +198,6 @@ I can help with:
 
 🇲🇦 **Building from Morocco**
 
-**React · Next.js · TypeScript · Tailwind CSS**
+**React · Next.js · Tailwind CSS**
 
 </div>
