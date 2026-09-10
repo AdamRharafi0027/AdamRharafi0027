@@ -68,7 +68,7 @@ I'm also interested in **SaaS and product development**, turning real problems i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript">
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript">
 
 </div>
 
