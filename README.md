@@ -1,104 +1,204 @@
-👋 Hey, I'm Adam Rharafi
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer+%F0%9F%92%BB;Freelancer+%F0%9F%9A%80;React+%26+Next.js+Builder+%E2%9A%A1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+the+Web+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" /> <br> <img src="https://komarev.com/ghpvc/?username=AdamRharafi&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+# 👋 Hi, I'm Adam Rharafi
 
-<br><br>
+<div align="center">
 
-<a href="https://github.com/AdamRharafi"> <img src="https://img.shields.io/github/followers/AdamRharafi?label=Followers&style=for-the-badge&color=00F7FF&labelColor=050505" alt="GitHub Followers"> </a> <a href="https://github.com/AdamRharafi?tab=repositories"> <img src="https://img.shields.io/github/stars/AdamRharafi?label=Stars&style=for-the-badge&color=7C3AED&labelColor=050505" alt="GitHub Stars"> </a> </div>
-🧑‍💻 whoami
+### Front-End Developer · React · Next.js
+
+I build **modern, responsive, and high-performance web experiences**
+with a focus on clean UI, great UX, and maintainable code.
+
+<a href="https://adamrharafi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/adamrharafi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:adamrharafi.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
 const adam = {
   name: "Adam Rharafi",
-  location: "🇲🇦 Morocco",
+  location: "Morocco 🇲🇦",
   role: "Front-End Developer",
-  type: "Freelancer + Builder",
-
-  mission:
-    "Build digital experiences that look better, load faster, and convert.",
-
-  currently: "🚀 Building my next SaaS",
-
+  focus: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  interests: ["Web Development", "UI/UX", "SaaS", "Performance"],
   availableForFreelance: true
 };
+```
+
+I'm a front-end developer focused on building websites and web applications that are:
+
+* ⚡ Fast and responsive
+* 🎨 Clean and modern
+* 📱 Mobile-friendly
+* ♿ Accessible
+* 🧩 Well-structured and maintainable
+* 🚀 Built with modern technologies
+
+I'm also interested in **SaaS and product development**, turning real problems into useful digital products.
+
+---
+
+## 🚀 What I Build
+
+| Service                | What I Can Help With                                       |
+| ---------------------- | ---------------------------------------------------------- |
+| 🌐 Business Websites   | Modern websites for businesses and personal brands         |
+| 🚀 Landing Pages       | Fast, responsive pages designed around clear user journeys |
+| ⚛️ React Applications  | Interactive and component-based web applications           |
+| ▲ Next.js Applications | Modern applications using the Next.js ecosystem            |
+| 🎨 UI Implementation   | Turning designs and ideas into polished interfaces         |
+| 🔄 Website Redesigns   | Modernizing outdated websites and improving UX             |
+| 📱 Responsive Design   | Interfaces that work across mobile, tablet and desktop     |
+| ⚡ Performance          | Improving loading speed and front-end performance          |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <div align="center">
-⚡ I don't just build websites.
 
-I build digital experiences.
-
-UI → UX → Performance → Accessibility → Responsiveness → Conversion
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript">
 
 </div>
-🚀 What I Do
-🎨 Design	⚛️ Development
-Clean, modern & conversion-focused interfaces	React & Next.js applications
-🎯 User-focused experiences	🧩 Scalable front-end architecture
-⚡ Performance	📱 Responsive Design
-Fast, optimized & smooth experiences	Mobile-first interfaces
-Core Web Vitals & optimization	Works across devices & screen sizes
-💰 Conversion	🧩 Architecture
-Websites designed to turn visitors into customers	Maintainable & scalable code
-Clear CTAs & user journeys	Reusable components & systems
-🛠️ Tech Arsenal
-💻 Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript"> </div>
-⚛️ Frameworks & Libraries
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React Next.js Tailwind Vite"> </div>
-🧰 Tools & Platforms
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" alt="Git GitHub VS Code Figma npm Vercel"> </div>
-🧠 Currently Learning
+
+### Frameworks & Libraries
+
 <div align="center">
-Focus	Progress
-▲ Next.js App Router	█████████░ 90%
-⚛️ Advanced React	████████░░ 80%
-⚡ Web Performance	████████░░ 80%
-🎨 Advanced UI/UX	███████░░░ 70%
-🚀 SaaS Development	███████░░░ 70%
-☁️ Full-Stack Architecture	██████░░░░ 60%
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React Next.js Tailwind CSS Vite">
+
 </div>
-🔥 My Current Mission
-🚀 Build products people actually want to use
-🎨 Turn ideas into beautiful interfaces
-⚡ Make the web faster
-🧠 Learn something new every day
-💻 Build my next SaaS
-💼 Open for Freelance
+
+### Tools
+
 <div align="center">
-🚀 Have an idea?
-💻 Need a developer?
-🎨 Need a better website?
 
-Let's build something awesome.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel" alt="Git GitHub VS Code Figma npm Vercel">
 
 </div>
+
+---
+
+## 🧠 Currently Learning
+
+I'm continuously improving my skills in:
+
+* ▲ Next.js App Router
+* ⚛️ Advanced React patterns
+* 📘 TypeScript
+* ⚡ Web performance
+* 🎨 UI/UX
+* ☁️ Full-stack development
+* 🚀 SaaS architecture
+* 💼 Freelancing & client communication
+
+> Always learning. Always building.
+
+---
+
+## 🚀 What I'm Working On
+
+### Building for the Web
+
+I'm currently working on personal projects to improve my development skills, experiment with new technologies, and explore ideas that could become real products.
+
+My current interests include:
+
+**SaaS · Web Applications · Developer Tools · Local Business Solutions**
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+### 🚀 More projects coming soon
+
+I'm actively building and improving projects that demonstrate my skills in:
+
+**React · Next.js · TypeScript · Tailwind CSS · UI/UX**
+
+Check out my repositories to see what I'm working on.
+
+<a href="https://github.com/AdamRharafi?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
+</a>
+
+</div>
+
+---
+
+## 💼 Available for Freelance
+
+Need a modern website or web application?
+
 I can help with:
-🌐 Business websites
-🚀 High-converting landing pages
-🛒 E-commerce stores
-⚛️ React applications
-▲ Next.js applications
-🎨 Figma → Pixel-perfect implementation
-🔧 Website redesigns
-⚡ Performance optimization
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdamRharafi&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" width="48%" alt="Adam's GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRharafi&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF" width="48%" alt="Top Languages"> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=AdamRharafi&theme=black-ice&hide_border=true&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" width="70%" alt="GitHub Streak"> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/AdamRharafi/AdamRharafi/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"> </div>
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AdamRharafi&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6" width="95%" alt="GitHub Trophies"> </div>
-🎯 2026 Goals
-⚡ Master Next.js App Router       █████████░ 90%
-🚀 Build & launch SaaS            ███████░░░ 70%
-🧠 Advanced React                 ████████░░ 80%
-⚡ Web Performance                ████████░░ 80%
-🎨 Advanced UI/UX                ███████░░░ 70%
-☁️ Full-Stack Architecture        ██████░░░░ 60%
 
-🌐 Let's Connect
-<div align="center"> <a href="mailto:adamrharafi.dev@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/adamrharafi/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://adamrharafi.vercel.app/"> <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"> </a> </div> <br> <div align="center">
+**Business websites · Landing pages · React applications · Next.js projects · Website redesigns · UI implementation**
 
-🇲🇦 Built from Morocco with ☕ + 💻
+<div align="center">
 
-⭐ If you like what I build, let's build something together.
+### Let's build something useful.
 
-<br><br>
+<a href="https://adamrharafi.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio">
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:FF006E&height=120&section=footer" width="100%" alt="Footer"> </div>
+<a href="mailto:adamrharafi.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-FF006E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdamRharafi&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" width="48%" alt="Adam's GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRharafi&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF" width="48%" alt="Top Languages">
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://adamrharafi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/adamrharafi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:adamrharafi.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🇲🇦 **Building from Morocco**
+
+**React · Next.js · TypeScript · Tailwind CSS**
+
+</div>
